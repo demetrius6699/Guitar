@@ -49,7 +49,7 @@ else if(score>=45&&score<=49)
 	cout<<"You had an E" ;
 
 }
-else if(score>=44&&score<=0)
+else if(score>=04&&score<=44)
 {
    cout<<"You had an F" ;
 
